@@ -124,7 +124,7 @@ This project demonstrates setting up Ansible on a control node and configuring k
   ```bash
   ansible -m ping -i hosts all
   ```
-   ![](Images/7.png)
+   ![](Images/8.png)
 
 ## Common Errors and Resolutions
 
