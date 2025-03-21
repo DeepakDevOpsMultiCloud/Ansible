@@ -1,0 +1,1 @@
+![](./Installation/KeyBased/Images/Ansible.png)
